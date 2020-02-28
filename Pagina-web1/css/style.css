@@ -1,0 +1,34 @@
+#principal {
+    width: 800px; 
+    height: 800px; 
+    background-color: silver; 
+    margin: 0px;
+}
+#est { 
+    display: grid;
+    width: 100px; 
+    height: 100px; 
+    background-color: grey; 
+    position: static ; left: 150px; top: 150px;
+}
+#abs {
+    display: grid;
+    width: 100px; 
+    height: 100px; 
+    background-color: yellow;
+    position: absolute ; left: 150px; top: 150px;
+}
+#rel { 
+    display: grid;
+    width: 100px; 
+    height: 100px; 
+    background-color: lime; 
+    position: relative ; left: 150px; top: 150px;
+}
+#fix { 
+    display: grid;
+    width: 100px; 
+    height: 100px; 
+    background-color: aqua;
+    position: fixed ; left: 250px; top: 150px; 
+}

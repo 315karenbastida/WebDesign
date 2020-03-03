@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Web Design</h1>
-  <img src="./src/assets/icons/icon-dev.png" alt="unica logo" height="100px">
+  <img src="./src/assets/icons/icon-unica.png" alt="unica logo" height="100px">
   <h5 style="font-weight:bold;">web course for pre-fellows UNICA</h5>
 </div>
 

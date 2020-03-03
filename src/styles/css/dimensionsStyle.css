@@ -1,0 +1,20 @@
+html, body {
+    margin: 0px;
+}
+
+.container1 {
+    width: 50%;
+}
+
+/* .container1 p {
+    min-width: 100px;
+} */
+
+.container2 {
+    width: 80%;
+    float: right;
+}
+
+/* .container2 p {
+    max-width: 500px;
+} */
